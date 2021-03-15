@@ -1,0 +1,11 @@
+1. Open shotcuts app in iphone
+
+ 2. Add action->Web->Web requests->Get contents of URL
+
+3. You need to make a web request, so the next thing would be finding the adress, by running the command “ping cloud.blynk.cc” in Winndows console.
+
+4. Or type adress manulaly i.e. http://188.166.206.43/YourAuthTokenHere/update/DigitalPinNumber?value=1
+
+6. Type the name of shotcut which we will be going to use it for siri to recognise the same phases.
+
+5. Click on done
